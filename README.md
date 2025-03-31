@@ -1,8 +1,8 @@
-# 🎟️ Evently – The Ultimate Event Organization and Ticketing Platform
+# 🎟️ Events Organization – The Ultimate Event Organization and Ticketing Platform
 
 ## 🚀 Overview
 
-**Evently** is a **comprehensive event management platform** designed to streamline event organization and ticketing. Built with modern web technologies like **Next.js, MongoDB, Tailwind CSS, and Stripe**, Evently provides an intuitive experience for event organizers and attendees alike.
+**Events Organization** is a **comprehensive event management platform** designed to streamline event organization and ticketing. Built with modern web technologies like **Next.js, MongoDB, Tailwind CSS, and Stripe**, Evently provides an intuitive experience for event organizers and attendees alike.
 
 Whether you're hosting a **concert, workshop, or conference**, Evently makes it easy to create, share, and manage events while providing **secure ticketing solutions**.
 
@@ -37,8 +37,8 @@ Whether you're hosting a **concert, workshop, or conference**, Evently makes it 
 
 ### 📥 Clone the Repository
 ```sh
-git clone https://github.com/your-username/evently.git
-cd evently
+git clone [https://github.com/your-username/evently.git](https://github.com/ahmedGHANIM327/events-organization.git)
+cd events-organization
 ````
 
 ### 📌 Install Dependencies
